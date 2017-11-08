@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "mattham7/Horror-Games",
+    "description": "Horror Games Framework.",
+    "keywords": ["framework", "HorrorGames"],
     "license": "MIT",
     "type": "project",
     "require": {
